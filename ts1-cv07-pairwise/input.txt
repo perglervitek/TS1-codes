@@ -1,0 +1,4 @@
+Registrace	Jmeno	Destinace	DatumNarozeni	Sleva
+Ano	NULL	vEU	DD.MM.YYYY	student
+Ne	Pismena	mimoEU	MM/DD/YYYY	duchodce
+	SpecialniZnaky		YYYY-MM-DD	slevovyKupon
